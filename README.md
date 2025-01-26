@@ -89,3 +89,7 @@ A horizontal bar chart is used to visualize feature importance.
 
 ## Team Contributions
 Each team member contributed to different aspects of the project, including data preprocessing, model implementation, and web development.
+
+<div align="center">
+  <img src="https://github.com/01Ruwantha/Heart-Disease-Risk-Assessment/blob/36a00fd2ef5cfed3f8f2102ec0d5f103227f3bc2/Pictures/Heart.jpg" alt="Heart pic" height="500px"  />
+</div>
