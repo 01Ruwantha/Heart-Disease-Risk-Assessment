@@ -7,6 +7,9 @@
 ## Introduction
 The Heart Disease Risk Assessment System is a web-based application that leverages machine learning to predict the risk of heart disease. This system aims to provide real-time predictions with a user-friendly interface, making heart disease risk assessment more accessible.
 
+<div align="center">
+  <img src="https://github.com/01Ruwantha/Heart-Disease-Risk-Assessment/blob/f41d4a223fb1483c05aec3157b7199aabc9e3968/Pictures/Project%20pic.jpg" alt="Project pic"   />
+</div>
 ## Objective
 The main objective of this project is to develop a predictive system using machine learning algorithms to assess heart disease risk efficiently.
 
@@ -91,5 +94,5 @@ A horizontal bar chart is used to visualize feature importance.
 Each team member contributed to different aspects of the project, including data preprocessing, model implementation, and web development.
 
 <div align="center">
-  <img src="https://github.com/01Ruwantha/Heart-Disease-Risk-Assessment/blob/3810da1c25ee18e0f7d290275f35bf5b66dac175/Pictures/Team%20details.jpg" alt="Heart pic" />
+  <img src="https://github.com/01Ruwantha/Heart-Disease-Risk-Assessment/blob/3810da1c25ee18e0f7d290275f35bf5b66dac175/Pictures/Team%20details.jpg" alt="Team Contributions pic" />
 </div>
