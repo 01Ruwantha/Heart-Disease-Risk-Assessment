@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/01Ruwantha/Heart-Disease-Risk-Assessment/blob/36a00fd2ef5cfed3f8f2102ec0d5f103227f3bc2/Pictures/Heart.jpg" alt="Heart pic" height="500px"  />
+</div>
+
 <h1>Heart Disease Risk Assessment System</h1> 
 
 ## Introduction
